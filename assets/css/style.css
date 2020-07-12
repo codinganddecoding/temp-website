@@ -49,9 +49,6 @@ This files contents are outlined below.
     color: #FFF
 }
 
-.heart {
-  color: #e60000;
-}
 /*----------------------------------
    1.Start button
 ------------------------------------*/
@@ -101,7 +98,7 @@ padding: 18px 50px;
   }
    
 .btn-primary:hover {
-  background-color: #f356c9 !important;
+  background-color: #47588f !important;
 }
 /* 
 .btn-primary:before {
