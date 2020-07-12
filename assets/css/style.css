@@ -49,6 +49,9 @@ This files contents are outlined below.
     color: #FFF
 }
 
+.heart {
+  color: #e60000;
+}
 /*----------------------------------
    1.Start button
 ------------------------------------*/
@@ -97,6 +100,10 @@ padding: 18px 50px;
     color: #fff !important;
   }
    
+.btn-primary:hover {
+  background-color: #f356c9 !important;
+}
+/* 
 .btn-primary:before {
     content: "";
     position: absolute;
@@ -117,7 +124,7 @@ padding: 18px 50px;
     transform: scaleY(1);
     color: #fff !important;
     border-radius: 30px;
-}
+} */
 a:before, a:after, .btn:before, .btn:after, button:before, button:after {
     transition: all 300ms linear 0s;
 }
