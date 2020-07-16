@@ -71,7 +71,11 @@ padding: 18px 50px;
    background: #2e7ffe !important;
     color: #fff !important;
 }
-.btn-default:before {
+
+.btn-default:hover {
+  background-color: #47588f !important; 
+}
+/* .btn-default:before {
     content: "";
     position: absolute;
     z-index: -1;
@@ -92,7 +96,7 @@ padding: 18px 50px;
     transform: scaleY(1);
     color: #fff !important;
     border-radius: 30px;
-}
+} */
 
 .btn-primary {
    background: #504cf5 !important;
