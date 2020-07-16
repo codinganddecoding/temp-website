@@ -49,6 +49,8 @@ This files contents are outlined below.
     color: #FFF
 }
 
+html{scroll-behavior:smooth}
+
 /*----------------------------------
    1.Start button
 ------------------------------------*/
