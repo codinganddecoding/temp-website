@@ -1101,9 +1101,9 @@ label{
 .services-right-text{
     font-size: 22px;
     line-height: 45px;
-    color: #90a0b4;
+    color: #90a0b4; 
     padding-right: 0px;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
 }
 .owl-prev {
    
@@ -1518,7 +1518,7 @@ text-align: left;
 }
 .button-n,
 a {
-    text-decoration: none!important
+    text-decoration: none !important;
     color:#fff !important;
 }
 
