@@ -2742,7 +2742,14 @@ img.posi-r-img{
 }
 
 
-
+.link {
+  font-size: 14px;
+  color: #2e7ffe !important;
+  font-weight: 400;
+  letter-spacing: 0.15px;
+  transition-duration: 1s;
+  text-decoration: underline !important;
+}
 
 
 
